@@ -1,0 +1,17 @@
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\pathfinding_test.exe
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\pathfinding_test.pdb
+D:\code\csharp_test\pathfinding_test\pathfinding_test\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+D:\code\csharp_test\pathfinding_test\pathfinding_test\obj\Debug\pathfinding_test.csprojResolveAssemblyReference.cache
+D:\code\csharp_test\pathfinding_test\pathfinding_test\obj\Debug\pathfinding_test.exe
+D:\code\csharp_test\pathfinding_test\pathfinding_test\obj\Debug\pathfinding_test.pdb
