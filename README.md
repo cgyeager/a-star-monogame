@@ -2,13 +2,13 @@ A* Pathfinding Demo
 just playing around with the A* algorithm
 using Monogame
 
-White represents open space
+white squares represents open space
 
-Black is obstacle
+black are obstacles
 
-Brown is in the closed set
+light red is in the closed set
 
-Blue is in the open set
+light blue is in the open set
 
 
 
